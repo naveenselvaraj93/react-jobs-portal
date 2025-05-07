@@ -3,7 +3,7 @@ import {Route, createBrowserRouter, createRoutesFromElements, RouterProvider } f
 import HomePage from "./pages/HomePage";
 import MainLayout from "./layouts/MainLayout";
 import JobsPage from "./pages/JobsPage";
-import NotFoundPage from "./pages/NotfoundPage";
+import NotFoundPage from "./pages/NotFoundPage";
 import JobPage,{jobLoader} from "./pages/JobPage";
 import AddJobPage from "./pages/AddJobPage";
 import EditJobPage from "./pages/EditJobPage";
